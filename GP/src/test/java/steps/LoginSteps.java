@@ -39,6 +39,7 @@ public class LoginSteps {
 	@Then("page title should get display")
 	public void page_title_should_get_display() {
 	   System.out.println("Validating title of the page");
+	   System.out.println("vdvxzxv");
 	}
 
 	
