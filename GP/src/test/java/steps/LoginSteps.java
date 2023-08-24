@@ -8,7 +8,7 @@ public class LoginSteps {
 	
 	@Given("User is at login page")
 	public void preConditions() {
-		System.out.println("Pre conditions got executed");
+		System.out.println("Pre conditions got executed lucifer");
 	}
 	
 	@When("User enters the username")
