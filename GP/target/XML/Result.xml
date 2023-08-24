@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Cucumber" time="0.285" tests="2" skipped="0" failures="0" errors="0">
-<testcase classname="Login functionality" name="login to the application" time="0.021">
+<testsuite name="Cucumber" time="0.292" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="Login functionality" name="login to the application" time="0.014">
 <system-out><![CDATA[
 Given User is at login page.................................................passed
 When User enters the username...............................................passed
@@ -9,7 +9,7 @@ And User clicks on login button.............................................pass
 Then User redirects to home page............................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Login functionality" name="verify title" time="0.002">
+<testcase classname="Login functionality" name="verify title" time="0.001">
 <system-out><![CDATA[
 Given User is at login page.................................................passed
 Then page title should get display..........................................passed
